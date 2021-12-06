@@ -13,7 +13,7 @@ class AdminSeeder extends Seeder
     {
 
           \App\User::create([
-            'name'=>'ayat amine',
+            'name'=>'mostafa ali',
             'email'=>'ayat@gmail.com',
             'password'=>bcrypt('123456'),
             'profile_img'=>'profile_img1.jpg',
