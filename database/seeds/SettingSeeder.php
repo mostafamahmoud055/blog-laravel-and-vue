@@ -13,8 +13,8 @@ class SettingSeeder extends Seeder
     {
         //
         \App\Setting::create([
-            'site_name'=>'Ayat amine',
-            'contact_email'=>'amine@gmail.com',
+            'site_name'=>'Aya ali',
+            'contact_email'=>'mm@gmail.com',
             'address'=>'address example here'
         ]);
     }
