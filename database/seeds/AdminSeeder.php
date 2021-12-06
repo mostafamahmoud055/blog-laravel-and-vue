@@ -14,7 +14,7 @@ class AdminSeeder extends Seeder
 
           \App\User::create([
             'name'=>'mostafa ali',
-            'email'=>'ayat@gmail.com',
+            'email'=>'mm@gmail.com',
             'password'=>bcrypt('123456'),
             'profile_img'=>'profile_img1.jpg',
             'is_admin'=>true
